@@ -1,25 +1,94 @@
 awardID,yearID,lgID,playerID,pointsWon,pointsMax,votesFirst
-Cy Young,2013,AL,scherma01,203,210,28
-Cy Young,2013,AL,darviyu01,93,210,0
-Cy Young,2013,AL,iwakuhi01,73,210,0
-Cy Young,2013,AL,sanchan01,46,210,1
-Cy Young,2013,AL,salech01,44,210,1
-Cy Young,2013,AL,colonba01,25,210,0
-Cy Young,2013,AL,ueharko01,10,210,0
-Cy Young,2013,AL,hernafe02,6,210,0
-Cy Young,2013,AL,hollagr01,4,210,0
-Cy Young,2013,AL,moorema02,4,210,0
-Cy Young,2013,AL,shielja02,2,210,0
-Cy Young,2013,NL,kershcl01,207,210,29
-Cy Young,2013,NL,wainwad01,86,210,1
-Cy Young,2013,NL,fernajo02,62,210,0
-Cy Young,2013,NL,harvema01,39,210,0
-Cy Young,2013,NL,kimbrcr01,39,210,0
-Cy Young,2013,NL,leecl02,32,210,0
-Cy Young,2013,NL,zimmejo02,21,210,0
-Cy Young,2013,NL,greinza01,19,210,0
-Cy Young,2013,NL,bumgama01,3,210,0
-Cy Young,2013,NL,liriafr01,3,210,0
+MVP,2012,AL,cabremi01,362,392,22
+MVP,2012,AL,troutmi01,281,392,6
+MVP,2012,AL,beltrad01,210,392,0
+MVP,2012,AL,canoro01,149,392,0
+MVP,2012,AL,hamiljo03,127,392,0
+MVP,2012,AL,jonesad01,120,392,0
+MVP,2012,AL,jeterde01,77,392,0
+MVP,2012,AL,verlaju01,58,392,0
+MVP,2012,AL,fieldpr01,56,392,0
+MVP,2012,AL,cespeyo01,41,392,0
+MVP,2012,AL,encared01,33,392,0
+MVP,2012,AL,priceda01,26,392,0
+MVP,2012,AL,rodnefe01,24,392,0
+MVP,2012,AL,johnsji04,22,392,0
+MVP,2012,AL,riosal01,17,392,0
+MVP,2012,AL,reddijo01,14,392,0
+MVP,2012,AL,pujolal01,8,392,0
+MVP,2012,AL,zobribe01,7,392,0
+MVP,2012,AL,mauerjo01,6,392,0
+MVP,2012,AL,soriara01,5,392,0
+MVP,2012,AL,wietema01,4,392,0
+MVP,2012,AL,hernafe02,2,392,0
+MVP,2012,AL,weaveje02,2,392,0
+MVP,2012,AL,ibanera01,1,392,0
+MVP,2012,NL,poseybu01,422,448,27
+MVP,2012,NL,braunry02,285,448,3
+MVP,2012,NL,mccutan01,245,448,0
+MVP,2012,NL,molinya01,241,448,2
+MVP,2012,NL,headlch01,127,448,0
+MVP,2012,NL,larocad01,86,448,0
+MVP,2012,NL,wrighda03,86,448,0
+MVP,2012,NL,kimbrcr01,73,448,0
+MVP,2012,NL,ramirar01,47,448,0
+MVP,2012,NL,bruceja01,46,448,0
+MVP,2012,NL,hollima01,34,448,0
+MVP,2012,NL,chapmar01,20,448,0
+MVP,2012,NL,phillbr01,18,448,0
+MVP,2012,NL,dickera01,16,448,0
+MVP,2012,NL,vottojo01,16,448,0
+MVP,2012,NL,desmoia01,15,448,0
+MVP,2012,NL,kershcl01,15,448,0
+MVP,2012,NL,bournmi01,12,448,0
+MVP,2012,NL,craigal01,10,448,0
+MVP,2012,NL,gonzagi01,8,448,0
+MVP,2012,NL,medlekr01,8,448,0
+MVP,2012,NL,pradoma01,8,448,0
+MVP,2012,NL,soriaal01,8,448,0
+MVP,2012,NL,stantmi03,7,448,0
+MVP,2012,NL,zimmery01,7,448,0
+MVP,2012,NL,beltrca01,6,448,0
+MVP,2012,NL,hillaa01,6,448,0
+MVP,2012,NL,heywaja01,4,448,0
+MVP,2012,NL,ruizca01,4,448,0
+MVP,2012,NL,cuetojo01,2,448,0
+MVP,2012,NL,harpebr03,2,448,0
+MVP,2012,NL,jonesch06,1,448,0
+MVP,2012,NL,montemi01,1,448,0
+MVP,2012,NL,paganan01,1,448,0
+MVP,2012,NL,pencehu01,1,448,0
+Cy Young,2012,AL,priceda01,153,196,14
+Cy Young,2012,AL,verlaju01,149,196,13
+Cy Young,2012,AL,weaveje02,70,196,0
+Cy Young,2012,AL,hernafe02,41,196,0
+Cy Young,2012,AL,rodnefe01,38,196,1
+Cy Young,2012,AL,salech01,17,196,0
+Cy Young,2012,AL,johnsji04,5,196,0
+Cy Young,2012,AL,harrima01,2,196,0
+Cy Young,2012,AL,darviyu01,1,196,0
+Cy Young,2012,NL,dickera01,209,224,27
+Cy Young,2012,NL,kershcl01,96,224,2
+Cy Young,2012,NL,gonzagi01,93,224,1
+Cy Young,2012,NL,cuetojo01,75,224,1
+Cy Young,2012,NL,kimbrcr01,41,224,1
+Cy Young,2012,NL,cainma01,22,224,0
+Cy Young,2012,NL,lohseky01,6,224,0
+Cy Young,2012,NL,chapmar01,1,224,0
+Cy Young,2012,NL,hamelco01,1,224,0
+Rookie of the Year,2012,AL,troutmi01,140,140,28
+Rookie of the Year,2012,AL,cespeyo01,63,140,0
+Rookie of the Year,2012,AL,darviyu01,46,140,0
+Rookie of the Year,2012,AL,chenwe02,2,140,0
+Rookie of the Year,2012,AL,parkeja02,1,140,0
+Rookie of the Year,2012,NL,harpebr03,112,160,16
+Rookie of the Year,2012,NL,mileywa01,105,160,12
+Rookie of the Year,2012,NL,frazito01,45,160,3
+Rookie of the Year,2012,NL,rosarwi01,12,160,1
+Rookie of the Year,2012,NL,aokino01,11,160,0
+Rookie of the Year,2012,NL,alonsyo01,1,160,0
+Rookie of the Year,2012,NL,carpema01,1,160,0
+Rookie of the Year,2012,NL,pachejo01,1,160,0
 MVP,2013,AL,cabremi01,385,420,23
 MVP,2013,AL,troutmi01,282,420,5
 MVP,2013,AL,davisch02,232,420,1
@@ -69,6 +138,27 @@ MVP,2013,NL,poseybu01,3,420,0
 MVP,2013,NL,wainwad01,3,420,0
 MVP,2013,NL,hollima01,2,420,0
 MVP,2013,NL,martiru01,1,420,0
+Cy Young,2013,AL,scherma01,203,210,28
+Cy Young,2013,AL,darviyu01,93,210,0
+Cy Young,2013,AL,iwakuhi01,73,210,0
+Cy Young,2013,AL,sanchan01,46,210,1
+Cy Young,2013,AL,salech01,44,210,1
+Cy Young,2013,AL,colonba01,25,210,0
+Cy Young,2013,AL,ueharko01,10,210,0
+Cy Young,2013,AL,hernafe02,6,210,0
+Cy Young,2013,AL,hollagr01,4,210,0
+Cy Young,2013,AL,moorema02,4,210,0
+Cy Young,2013,AL,shielja02,2,210,0
+Cy Young,2013,NL,kershcl01,207,210,29
+Cy Young,2013,NL,wainwad01,86,210,1
+Cy Young,2013,NL,fernajo02,62,210,0
+Cy Young,2013,NL,harvema01,39,210,0
+Cy Young,2013,NL,kimbrcr01,39,210,0
+Cy Young,2013,NL,leecl02,32,210,0
+Cy Young,2013,NL,zimmejo02,21,210,0
+Cy Young,2013,NL,greinza01,19,210,0
+Cy Young,2013,NL,bumgama01,3,210,0
+Cy Young,2013,NL,liriafr01,3,210,0
 Rookie of the Year,2013,AL,myerswi01,131,150,23
 Rookie of the Year,2013,AL,iglesjo01,80,150,5
 Rookie of the Year,2013,AL,archech01,35,150,1
@@ -85,119 +175,94 @@ Rookie of the Year,2013,NL,teherju01,7,150,0
 Rookie of the Year,2013,NL,gyorkje01,2,150,0
 Rookie of the Year,2013,NL,arenano01,1,150,0
 Rookie of the Year,2013,NL,gattiev01,1,150,0
-Cy Young,2012,AL,priceda01,153,196,14
-Cy Young,2012,AL,verlaju01,149,196,13
-Cy Young,2012,AL,weaveje02,70,196,0
-Cy Young,2012,AL,hernafe02,41,196,0
-Cy Young,2012,AL,rodnefe01,38,196,1
-Cy Young,2012,AL,salech01,17,196,0
-Cy Young,2012,AL,johnsji04,5,196,0
-Cy Young,2012,AL,harrima01,2,196,0
-Cy Young,2012,AL,darviyu01,1,196,0
-Cy Young,2012,NL,dicker.01,209,224,27
-Cy Young,2012,NL,kershcl01,96,224,2
-Cy Young,2012,NL,gonzagi01,93,224,1
-Cy Young,2012,NL,cuetojo01,75,224,1
-Cy Young,2012,NL,kimbrcr01,41,224,1
-Cy Young,2012,NL,cainma01,22,224,0
-Cy Young,2012,NL,lohseky01,6,224,0
-Cy Young,2012,NL,chapmar01,1,224,0
-Cy Young,2012,NL,hamelco01,1,224,0
-MVP,2012,AL,cabremi01,362,392,22
-MVP,2012,AL,troutmi01,281,392,6
-MVP,2012,AL,beltrad01,210,392,0
-MVP,2012,AL,canoro01,149,392,0
-MVP,2012,AL,hamiljo03,127,392,0
-MVP,2012,AL,jonesad01,120,392,0
-MVP,2012,AL,jeterde01,77,392,0
-MVP,2012,AL,verlaju01,58,392,0
-MVP,2012,AL,fieldpr01,56,392,0
-MVP,2012,AL,cespeyo01,41,392,0
-MVP,2012,AL,encared01,33,392,0
-MVP,2012,AL,priceda01,26,392,0
-MVP,2012,AL,rodnefe01,24,392,0
-MVP,2012,AL,johnsji04,22,392,0
-MVP,2012,AL,riosal01,17,392,0
-MVP,2012,AL,reddijo01,14,392,0
-MVP,2012,AL,pujolal01,8,392,0
-MVP,2012,AL,zobribe01,7,392,0
-MVP,2012,AL,mauerjo01,6,392,0
-MVP,2012,AL,soriara01,5,392,0
-MVP,2012,AL,wietema01,4,392,0
-MVP,2012,AL,hernafe02,2,392,0
-MVP,2012,AL,weaveje02,2,392,0
-MVP,2012,AL,ibanera01,1,392,0
-MVP,2012,NL,poseybu01,422,448,27
-MVP,2012,NL,braunry02,285,448,3
-MVP,2012,NL,mccutan01,245,448,0
-MVP,2012,NL,molinya01,241,448,2
-MVP,2012,NL,headlch01,127,448,0
-MVP,2012,NL,larocad01,86,448,0
-MVP,2012,NL,wrighda03,86,448,0
-MVP,2012,NL,kimbrcr01,73,448,0
-MVP,2012,NL,ramirar01,47,448,0
-MVP,2012,NL,bruceja01,46,448,0
-MVP,2012,NL,hollima01,34,448,0
-MVP,2012,NL,chapmar01,20,448,0
-MVP,2012,NL,phillbr01,18,448,0
-MVP,2012,NL,dicker.01,16,448,0
-MVP,2012,NL,vottojo01,16,448,0
-MVP,2012,NL,desmoia01,15,448,0
-MVP,2012,NL,kershcl01,15,448,0
-MVP,2012,NL,bournmi01,12,448,0
-MVP,2012,NL,craigal01,10,448,0
-MVP,2012,NL,gonzagi01,8,448,0
-MVP,2012,NL,medlekr01,8,448,0
-MVP,2012,NL,pradoma01,8,448,0
-MVP,2012,NL,soriaal01,8,448,0
-MVP,2012,NL,stantmi03,7,448,0
-MVP,2012,NL,zimmery01,7,448,0
-MVP,2012,NL,beltrca01,6,448,0
-MVP,2012,NL,hillaa01,6,448,0
-MVP,2012,NL,heywaja01,4,448,0
-MVP,2012,NL,ruizca01,4,448,0
-MVP,2012,NL,cuetojo01,2,448,0
-MVP,2012,NL,harpebr03,2,448,0
-MVP,2012,NL,jonesch06,1,448,0
-MVP,2012,NL,montemi01,1,448,0
-MVP,2012,NL,paganan01,1,448,0
-MVP,2012,NL,pencehu01,1,448,0
-Rookie of the Year,2012,AL,troutmi01,140,140,28
-Rookie of the Year,2012,AL,cespeyo01,63,140,0
-Rookie of the Year,2012,AL,darviyu01,46,140,0
-Rookie of the Year,2012,AL,chenwe02,2,140,0
-Rookie of the Year,2012,AL,parkeja02,1,140,0
-Rookie of the Year,2012,NL,harpebr03,112,160,16
-Rookie of the Year,2012,NL,mileywa01,105,160,12
-Rookie of the Year,2012,NL,frazito01,45,160,3
-Rookie of the Year,2012,NL,rosarwi01,12,160,1
-Rookie of the Year,2012,NL,aokino01,11,160,0
-Rookie of the Year,2012,NL,alonsyo01,1,160,0
-Rookie of the Year,2012,NL,carpema01,1,160,0
-Rookie of the Year,2012,NL,pachejo01,1,160,0
-Cy Young,2015,AL,keuchda01,186,210,22
-Cy Young,2015,AL,priceda01,143,210,8
-Cy Young,2015,AL,grayso01,82,210,0
-Cy Young,2015,AL,salech01,30,210,0
-Cy Young,2015,AL,archech01,29,210,0
-Cy Young,2015,AL,daviswa01,10,210,0
-Cy Young,2015,AL,hernafe02,9,210,0
-Cy Young,2015,AL,mchugco01,5,210,0
-Cy Young,2015,AL,klubeco01,4,210,0
-Cy Young,2015,AL,estrama01,3,210,0
-Cy Young,2015,AL,millean01,3,210,0
-Cy Young,2015,AL,tollesh01,3,210,0
-Cy Young,2015,AL,carraca01,2,210,0
-Cy Young,2015,AL,betande01,1,210,0
-Cy Young,2015,NL,arrieja01,169,210,17
-Cy Young,2015,NL,greinza01,147,210,10
-Cy Young,2015,NL,kershcl01,101,210,3
-Cy Young,2015,NL,colege01,40,210,0
-Cy Young,2015,NL,scherma01,32,210,0
-Cy Young,2015,NL,bumgama01,8,210,0
-Cy Young,2015,NL,degroja01,7,210,0
-Cy Young,2015,NL,melanma01,5,210,0
-Cy Young,2015,NL,lackejo01,1,210,0
+MVP,2014,AL,troutmi01,420,420,30
+MVP,2014,AL,martivi01,229,420,0
+MVP,2014,AL,brantmi02,191,420,0
+MVP,2014,AL,abreujo02,145,420,0
+MVP,2014,AL,canoro01,124,420,0
+MVP,2014,AL,bautijo02,122,420,0
+MVP,2014,AL,cruzne02,102,420,0
+MVP,2014,AL,donaljo02,96,420,0
+MVP,2014,AL,cabremi01,82,420,0
+MVP,2014,AL,hernafe02,48,420,0
+MVP,2014,AL,klubeco01,45,420,0
+MVP,2014,AL,gordoal01,44,420,0
+MVP,2014,AL,altuvjo01,41,420,0
+MVP,2014,AL,jonesad01,34,420,0
+MVP,2014,AL,beltrad01,22,420,0
+MVP,2014,AL,hollagr01,13,420,0
+MVP,2014,AL,pujolal01,5,420,0
+MVP,2014,AL,kendrho01,3,420,0
+MVP,2014,AL,shielja02,3,420,0
+MVP,2014,AL,seageky01,1,420,0
+MVP,2014,NL,kershcl01,355,420,18
+MVP,2014,NL,stantmi03,298,420,8
+MVP,2014,NL,mccutan01,271,420,4
+MVP,2014,NL,lucrojo01,167,420,0
+MVP,2014,NL,rendoan01,155,420,0
+MVP,2014,NL,poseybu01,152,420,0
+MVP,2014,NL,gonzaad01,57,420,0
+MVP,2014,NL,wainwad01,53,420,0
+MVP,2014,NL,harrijo05,52,420,0
+MVP,2014,NL,rizzoan01,37,420,0
+MVP,2014,NL,pencehu01,34,420,0
+MVP,2014,NL,cuetojo01,22,420,0
+MVP,2014,NL,martiru01,21,420,0
+MVP,2014,NL,hollima01,17,420,0
+MVP,2014,NL,peraljh01,17,420,0
+MVP,2014,NL,gomezca01,13,420,0
+MVP,2014,NL,uptonju01,10,420,0
+MVP,2014,NL,werthja01,9,420,0
+MVP,2014,NL,puigya01,8,420,0
+MVP,2014,NL,spande01,8,420,0
+MVP,2014,NL,mesorde01,5,420,0
+MVP,2014,NL,dudalu01,3,420,0
+MVP,2014,NL,freemfr01,2,420,0
+MVP,2014,NL,morneju01,2,420,0
+MVP,2014,NL,gordode01,1,420,0
+MVP,2014,NL,tulowtr01,1,420,0
+Cy Young,2014,AL,klubeco01,169,210,17
+Cy Young,2014,AL,hernafe02,159,210,13
+Cy Young,2014,AL,salech01,78,210,0
+Cy Young,2014,AL,lestejo01,46,210,0
+Cy Young,2014,AL,scherma01,32,210,0
+Cy Young,2014,AL,priceda01,16,210,0
+Cy Young,2014,AL,hugheph01,6,210,0
+Cy Young,2014,AL,daviswa01,3,210,0
+Cy Young,2014,AL,hollagr01,1,210,0
+Cy Young,2014,NL,kershcl01,210,210,30
+Cy Young,2014,NL,cuetojo01,112,210,0
+Cy Young,2014,NL,wainwad01,97,210,0
+Cy Young,2014,NL,bumgama01,28,210,0
+Cy Young,2014,NL,zimmejo02,25,210,0
+Cy Young,2014,NL,hamelco01,17,210,0
+Cy Young,2014,NL,greinza01,6,210,0
+Cy Young,2014,NL,fistedo01,5,210,0
+Cy Young,2014,NL,arrieja01,3,210,0
+Cy Young,2014,NL,kimbrcr01,3,210,0
+Cy Young,2014,NL,strasst01,3,210,0
+Cy Young,2014,NL,alvarhe01,1,210,0
+Rookie of the Year,2014,AL,abreujo02,150,150,30
+Rookie of the Year,2014,AL,shoemma01,40,150,0
+Rookie of the Year,2014,AL,betande01,27,150,0
+Rookie of the Year,2014,AL,mchugco01,21,150,0
+Rookie of the Year,2014,AL,tanakma01,16,150,0
+Rookie of the Year,2014,AL,ventuyo01,9,150,0
+Rookie of the Year,2014,AL,santada01,3,150,0
+Rookie of the Year,2014,AL,casteni01,1,150,0
+Rookie of the Year,2014,AL,holtbr01,1,150,0
+Rookie of the Year,2014,AL,odorija01,1,150,0
+Rookie of the Year,2014,AL,springe01,1,150,0
+Rookie of the Year,2014,NL,degroja01,142,150,26
+Rookie of the Year,2014,NL,hamilbi02,92,150,4
+Rookie of the Year,2014,NL,wongko01,14,150,0
+Rookie of the Year,2014,NL,gileske01,8,150,0
+Rookie of the Year,2014,NL,inciaen01,4,150,0
+Rookie of the Year,2014,NL,panikjo01,3,150,0
+Rookie of the Year,2014,NL,darnatr01,2,150,0
+Rookie of the Year,2014,NL,familje01,2,150,0
+Rookie of the Year,2014,NL,hendrky01,2,150,0
+Rookie of the Year,2014,NL,anderch01,1,150,0
 MVP,2015,AL,donaljo02,385,420,23
 MVP,2015,AL,troutmi01,304,420,7
 MVP,2015,AL,cainlo01,225,420,0
@@ -251,6 +316,29 @@ MVP,2015,NL,rosentr01,5,420,0
 MVP,2015,NL,grandcu01,4,420,0
 MVP,2015,NL,colege01,3,420,0
 MVP,2015,NL,gonzaad01,3,420,0
+Cy Young,2015,AL,keuchda01,186,210,22
+Cy Young,2015,AL,priceda01,143,210,8
+Cy Young,2015,AL,grayso01,82,210,0
+Cy Young,2015,AL,salech01,30,210,0
+Cy Young,2015,AL,archech01,29,210,0
+Cy Young,2015,AL,daviswa01,10,210,0
+Cy Young,2015,AL,hernafe02,9,210,0
+Cy Young,2015,AL,mchugco01,5,210,0
+Cy Young,2015,AL,klubeco01,4,210,0
+Cy Young,2015,AL,estrama01,3,210,0
+Cy Young,2015,AL,millean01,3,210,0
+Cy Young,2015,AL,tollesh01,3,210,0
+Cy Young,2015,AL,carraca01,2,210,0
+Cy Young,2015,AL,betande01,1,210,0
+Cy Young,2015,NL,arrieja01,169,210,17
+Cy Young,2015,NL,greinza01,147,210,10
+Cy Young,2015,NL,kershcl01,101,210,3
+Cy Young,2015,NL,colege01,40,210,0
+Cy Young,2015,NL,scherma01,32,210,0
+Cy Young,2015,NL,bumgama01,8,210,0
+Cy Young,2015,NL,degroja01,7,210,0
+Cy Young,2015,NL,melanma01,5,210,0
+Cy Young,2015,NL,lackejo01,1,210,0
 Rookie of the Year,2015,AL,correca01,124,150,17
 Rookie of the Year,2015,AL,lindofr01,109,150,13
 Rookie of the Year,2015,AL,sanomi01,20,150,0
@@ -265,115 +353,6 @@ Rookie of the Year,2015,NL,syndeno01,16,150,0
 Rookie of the Year,2015,NL,bourju01,4,150,0
 Rookie of the Year,2015,NL,pederjo01,1,150,0
 Rookie of the Year,2015,NL,piscost01,1,150,0
-Cy Young,2014,AL,klubeco01,169,210,17
-Cy Young,2014,AL,hernafe02,159,210,13
-Cy Young,2014,AL,salech01,78,210,0
-Cy Young,2014,AL,lestejo01,46,210,0
-Cy Young,2014,AL,scherma01,32,210,0
-Cy Young,2014,AL,priceda01,16,210,0
-Cy Young,2014,AL,hugheph01,6,210,0
-Cy Young,2014,AL,daviswa01,3,210,0
-Cy Young,2014,AL,hollagr01,1,210,0
-Cy Young,2014,NL,kershcl01,210,210,30
-Cy Young,2014,NL,cuetojo01,112,210,0
-Cy Young,2014,NL,wainwad01,97,210,0
-Cy Young,2014,NL,bumgama01,28,210,0
-Cy Young,2014,NL,zimmejo02,25,210,0
-Cy Young,2014,NL,hamelco01,17,210,0
-Cy Young,2014,NL,greinza01,6,210,0
-Cy Young,2014,NL,fistedo01,5,210,0
-Cy Young,2014,NL,arrieja01,3,210,0
-Cy Young,2014,NL,kimbrcr01,3,210,0
-Cy Young,2014,NL,strasst01,3,210,0
-Cy Young,2014,NL,alvarhe01,1,210,0
-MVP,2014,AL,troutmi01,420,420,30
-MVP,2014,AL,martivi01,229,420,0
-MVP,2014,AL,brantmi02,191,420,0
-MVP,2014,AL,abreujo02,145,420,0
-MVP,2014,AL,canoro01,124,420,0
-MVP,2014,AL,bautijo02,122,420,0
-MVP,2014,AL,cruzne02,102,420,0
-MVP,2014,AL,donaljo02,96,420,0
-MVP,2014,AL,cabremi01,82,420,0
-MVP,2014,AL,hernafe02,48,420,0
-MVP,2014,AL,klubeco01,45,420,0
-MVP,2014,AL,gordoal01,44,420,0
-MVP,2014,AL,altuvjo01,41,420,0
-MVP,2014,AL,jonesad01,34,420,0
-MVP,2014,AL,beltrad01,22,420,0
-MVP,2014,AL,hollagr01,13,420,0
-MVP,2014,AL,pujolal01,5,420,0
-MVP,2014,AL,kendrho01,3,420,0
-MVP,2014,AL,shielja02,3,420,0
-MVP,2014,AL,seageky01,1,420,0
-MVP,2014,NL,kershcl01,355,420,18
-MVP,2014,NL,stantmi03,298,420,8
-MVP,2014,NL,mccutan01,271,420,4
-MVP,2014,NL,lucrojo01,167,420,0
-MVP,2014,NL,rendoan01,155,420,0
-MVP,2014,NL,poseybu01,152,420,0
-MVP,2014,NL,gonzaad01,57,420,0
-MVP,2014,NL,wainwad01,53,420,0
-MVP,2014,NL,harrijo05,52,420,0
-MVP,2014,NL,rizzoan01,37,420,0
-MVP,2014,NL,pencehu01,34,420,0
-MVP,2014,NL,cuetojo01,22,420,0
-MVP,2014,NL,martiru01,21,420,0
-MVP,2014,NL,hollima01,17,420,0
-MVP,2014,NL,peraljh01,17,420,0
-MVP,2014,NL,gomezca01,13,420,0
-MVP,2014,NL,uptonju01,10,420,0
-MVP,2014,NL,werthja01,9,420,0
-MVP,2014,NL,puigya01,8,420,0
-MVP,2014,NL,spande01,8,420,0
-MVP,2014,NL,mesorde01,5,420,0
-MVP,2014,NL,dudalu01,3,420,0
-MVP,2014,NL,freemfr01,2,420,0
-MVP,2014,NL,morneju01,2,420,0
-MVP,2014,NL,gordode01,1,420,0
-MVP,2014,NL,tulowtr01,1,420,0
-Rookie of the Year,2014,AL,abreujo02,150,150,30
-Rookie of the Year,2014,AL,shoemma01,40,150,0
-Rookie of the Year,2014,AL,betande01,27,150,0
-Rookie of the Year,2014,AL,mchugco01,21,150,0
-Rookie of the Year,2014,AL,tanakma01,16,150,0
-Rookie of the Year,2014,AL,ventuyo01,9,150,0
-Rookie of the Year,2014,AL,santada01,3,150,0
-Rookie of the Year,2014,AL,casteni01,1,150,0
-Rookie of the Year,2014,AL,holtbr01,1,150,0
-Rookie of the Year,2014,AL,odorija01,1,150,0
-Rookie of the Year,2014,AL,springe01,1,150,0
-Rookie of the Year,2014,NL,degroja01,142,150,26
-Rookie of the Year,2014,NL,hamilbi02,92,150,4
-Rookie of the Year,2014,NL,wongko01,14,150,0
-Rookie of the Year,2014,NL,gileske01,8,150,0
-Rookie of the Year,2014,NL,inciaen01,4,150,0
-Rookie of the Year,2014,NL,panikjo01,3,150,0
-Rookie of the Year,2014,NL,darnatr01,2,150,0
-Rookie of the Year,2014,NL,familje01,2,150,0
-Rookie of the Year,2014,NL,hendrky01,2,150,0
-Rookie of the Year,2014,NL,anderch01,1,150,0
-Cy Young,2016,AL,porceri01,137,210,8
-Cy Young,2016,AL,verlaju01,132,210,14
-Cy Young,2016,AL,klubeco01,98,210,3
-Cy Young,2016,AL,brittza01,72,210,5
-Cy Young,2016,AL,salech01,40,210,0
-Cy Young,2016,AL,happja01,14,210,0
-Cy Young,2016,AL,sanchaa01,6,210,0
-Cy Young,2016,AL,tanakma01,6,210,0
-Cy Young,2016,AL,millean01,3,210,0
-Cy Young,2016,AL,fulmemi01,1,210,0
-Cy Young,2016,AL,quintjo01,1,210,0
-Cy Young,2016,NL,scherma01,192,210,25
-Cy Young,2016,NL,lestejo01,102,210,1
-Cy Young,2016,NL,hendrky01,85,210,2
-Cy Young,2016,NL,bumgama01,46,210,0
-Cy Young,2016,NL,kershcl01,30,210,2
-Cy Young,2016,NL,cuetojo01,19,210,0
-Cy Young,2016,NL,fernajo02,18,210,0
-Cy Young,2016,NL,syndeno01,15,210,0
-Cy Young,2016,NL,arrieja01,2,210,0
-Cy Young,2016,NL,roarkta01,1,210,0
 MVP,2016,AL,troutmi01,356,420,19
 MVP,2016,AL,bettsmo01,311,420,9
 MVP,2016,AL,altuvjo01,227,420,0
@@ -422,6 +401,27 @@ MVP,2016,NL,hendrky01,2,420,0
 MVP,2016,NL,molinya01,2,420,0
 MVP,2016,NL,blackch02,1,420,0
 MVP,2016,NL,cuetojo01,1,420,0
+Cy Young,2016,AL,porceri01,137,210,8
+Cy Young,2016,AL,verlaju01,132,210,14
+Cy Young,2016,AL,klubeco01,98,210,3
+Cy Young,2016,AL,brittza01,72,210,5
+Cy Young,2016,AL,salech01,40,210,0
+Cy Young,2016,AL,happja01,14,210,0
+Cy Young,2016,AL,sanchaa01,6,210,0
+Cy Young,2016,AL,tanakma01,6,210,0
+Cy Young,2016,AL,millean01,3,210,0
+Cy Young,2016,AL,fulmemi01,1,210,0
+Cy Young,2016,AL,quintjo01,1,210,0
+Cy Young,2016,NL,scherma01,192,210,25
+Cy Young,2016,NL,lestejo01,102,210,1
+Cy Young,2016,NL,hendrky01,85,210,2
+Cy Young,2016,NL,bumgama01,46,210,0
+Cy Young,2016,NL,kershcl01,30,210,2
+Cy Young,2016,NL,cuetojo01,19,210,0
+Cy Young,2016,NL,fernajo02,18,210,0
+Cy Young,2016,NL,syndeno01,15,210,0
+Cy Young,2016,NL,arrieja01,2,210,0
+Cy Young,2016,NL,roarkta01,1,210,0
 Rookie of the Year,2016,AL,fulmemi01,142,150,26
 Rookie of the Year,2016,AL,sanchga02,91,150,4
 Rookie of the Year,2016,AL,naquity01,20,150,0
@@ -437,24 +437,6 @@ Rookie of the Year,2016,NL,diazal02,14,150,0
 Rookie of the Year,2016,NL,grayjo02,1,150,0
 Rookie of the Year,2016,NL,matzst01,1,150,0
 Rookie of the Year,2016,NL,ohse01,1,150,0
-Cy Young,2017,AL,klubeco01,204,210,28
-Cy Young,2017,AL,salech01,126,210,2
-Cy Young,2017,AL,severlu01,73,210,0
-Cy Young,2017,AL,carraca01,43,210,0
-Cy Young,2017,AL,verlaju01,32,210,0
-Cy Young,2017,AL,kimbrcr01,27,210,0
-Cy Young,2017,AL,santaer01,3,210,0
-Cy Young,2017,AL,stromma01,2,210,0
-Cy Young,2017,NL,scherma01,201,210,27
-Cy Young,2017,NL,kershcl01,126,210,3
-Cy Young,2017,NL,strasst01,81,210,0
-Cy Young,2017,NL,greinza01,52,210,0
-Cy Young,2017,NL,janseke01,22,210,0
-Cy Young,2017,NL,gonzagi01,18,210,0
-Cy Young,2017,NL,rayro02,6,210,0
-Cy Young,2017,NL,degroja01,2,210,0
-Cy Young,2017,NL,nelsoji02,1,210,0
-Cy Young,2017,NL,woodal02,1,210,0
 MVP,2017,AL,altuvjo01,405,420,27
 MVP,2017,AL,judgeaa01,279,420,2
 MVP,2017,AL,ramirjo01,237,420,1
@@ -501,6 +483,24 @@ MVP,2017,NL,murphda08,3,420,0
 MVP,2017,NL,bradlar01,1,420,0
 MVP,2017,NL,greinza01,1,420,0
 MVP,2017,NL,zimmery01,1,420,0
+Cy Young,2017,AL,klubeco01,204,210,28
+Cy Young,2017,AL,salech01,126,210,2
+Cy Young,2017,AL,severlu01,73,210,0
+Cy Young,2017,AL,carraca01,43,210,0
+Cy Young,2017,AL,verlaju01,32,210,0
+Cy Young,2017,AL,kimbrcr01,27,210,0
+Cy Young,2017,AL,santaer01,3,210,0
+Cy Young,2017,AL,stromma01,2,210,0
+Cy Young,2017,NL,scherma01,201,210,27
+Cy Young,2017,NL,kershcl01,126,210,3
+Cy Young,2017,NL,strasst01,81,210,0
+Cy Young,2017,NL,greinza01,52,210,0
+Cy Young,2017,NL,janseke01,22,210,0
+Cy Young,2017,NL,gonzagi01,18,210,0
+Cy Young,2017,NL,rayro02,6,210,0
+Cy Young,2017,NL,degroja01,2,210,0
+Cy Young,2017,NL,nelsoji02,1,210,0
+Cy Young,2017,NL,woodal02,1,210,0
 Rookie of the Year,2017,AL,judgeaa01,150,150,30
 Rookie of the Year,2017,AL,beninan01,75,150,0
 Rookie of the Year,2017,AL,mancitr01,31,150,0
@@ -516,25 +516,81 @@ Rookie of the Year,2017,NL,margoma01,5,150,0
 Rookie of the Year,2017,NL,freelky01,3,150,0
 Rookie of the Year,2017,NL,castilu02,1,150,0
 Rookie of the Year,2017,NL,happia01,1,150,0
-Cy Young,2019,AL,verlaju01,171,210,17
-Cy Young,2019,AL,colege01,159,210,13
-Cy Young,2019,AL,mortoch02,75,210,0
-Cy Young,2019,AL,biebesh01,64,210,0
-Cy Young,2019,AL,lynnla01,18,210,0
-Cy Young,2019,AL,giolilu01,8,210,0
-Cy Young,2019,AL,rodried05,8,210,0
-Cy Young,2019,AL,minormi01,7,210,0
-Cy Young,2019,NL,degroja01,207,210,29
-Cy Young,2019,NL,ryuhy01,88,210,1
-Cy Young,2019,NL,scherma01,72,210,0
-Cy Young,2019,NL,flaheja01,69,210,0
-Cy Young,2019,NL,strasst01,53,210,0
-Cy Young,2019,NL,sorokmi01,9,210,0
-Cy Young,2019,NL,grayso01,4,210,0
-Cy Young,2019,NL,kershcl01,3,210,0
-Cy Young,2019,NL,buehlwa01,2,210,0
-Cy Young,2019,NL,yateski01,2,210,0
-Cy Young,2019,NL,corbipa01,1,210,0
+MVP,2018,AL,bettsmo01,410,420,28
+MVP,2018,AL,troutmi01,265,420,1
+MVP,2018,AL,ramirjo01,208,420,0
+MVP,2018,AL,martijd02,198,420,1
+MVP,2018,AL,bregmal01,192,420,0
+MVP,2018,AL,lindofr01,169,420,0
+MVP,2018,AL,chapmma01,141,420,0
+MVP,2018,AL,daviskh01,41,420,0
+MVP,2018,AL,snellbl01,38,420,0
+MVP,2018,AL,verlaju01,26,420,0
+MVP,2018,AL,hanigmi01,16,420,0
+MVP,2018,AL,judgeaa01,10,420,0
+MVP,2018,AL,altuvjo01,9,420,0
+MVP,2018,AL,bogaexa01,9,420,0
+MVP,2018,AL,simmoan01,7,420,0
+MVP,2018,AL,treinbl01,7,420,0
+MVP,2018,AL,merriwh01,6,420,0
+MVP,2018,AL,diazed04,5,420,0
+MVP,2018,AL,stantmi03,4,420,0
+MVP,2018,AL,gregodi01,3,420,0
+MVP,2018,AL,lowrije01,3,420,0
+MVP,2018,AL,bauertr01,1,420,0
+MVP,2018,AL,hicksaa01,1,420,0
+MVP,2018,AL,salech01,1,420,0
+MVP,2018,NL,yelicch01,415,420,29
+MVP,2018,NL,baezja01,250,420,0
+MVP,2018,NL,arenano01,203,420,0
+MVP,2018,NL,freemfr01,174,420,0
+MVP,2018,NL,degroja01,141,420,1
+MVP,2018,NL,goldspa01,115,420,0
+MVP,2018,NL,cainlo01,109,420,0
+MVP,2018,NL,storytr01,108,420,0
+MVP,2018,NL,carpema01,105,420,0
+MVP,2018,NL,scherma01,59,420,0
+MVP,2018,NL,rendoan01,21,420,0
+MVP,2018,NL,acunaro01,19,420,0
+MVP,2018,NL,nolaaa01,16,420,0
+MVP,2018,NL,turneju01,10,420,0
+MVP,2018,NL,muncyma01,8,420,0
+MVP,2018,NL,aguilje01,7,420,0
+MVP,2018,NL,rizzoan01,6,420,0
+MVP,2018,NL,markani01,2,420,0
+MVP,2018,NL,suareeu01,2,420,0
+Cy Young,2018,AL,snellbl01,169,210,17
+Cy Young,2018,AL,verlaju01,154,210,13
+Cy Young,2018,AL,klubeco01,71,210,0
+Cy Young,2018,AL,salech01,59,210,0
+Cy Young,2018,AL,colege01,26,210,0
+Cy Young,2018,AL,bauertr01,13,210,0
+Cy Young,2018,AL,treinbl01,13,210,0
+Cy Young,2018,AL,diazed04,4,210,0
+Cy Young,2018,AL,severlu01,1,210,0
+Cy Young,2018,NL,degroja01,207,210,29
+Cy Young,2018,NL,scherma01,123,210,1
+Cy Young,2018,NL,nolaaa01,86,210,0
+Cy Young,2018,NL,freelky01,49,210,0
+Cy Young,2018,NL,corbipa01,23,210,0
+Cy Young,2018,NL,mikolmi01,13,210,0
+Cy Young,2018,NL,haderjo01,4,210,0
+Cy Young,2018,NL,foltymi01,3,210,0
+Cy Young,2018,NL,lestejo01,2,210,0
+Rookie of the Year,2018,AL,ohtansh01,137,150,25
+Rookie of the Year,2018,AL,andujmi01,89,150,5
+Rookie of the Year,2018,AL,torregl01,25,150,0
+Rookie of the Year,2018,AL,wendljo01,17,150,0
+Rookie of the Year,2018,AL,palkada01,1,150,0
+Rookie of the Year,2018,AL,yarbrry01,1,150,0
+Rookie of the Year,2018,NL,acunaro01,144,150,27
+Rookie of the Year,2018,NL,sotoju01,89,150,2
+Rookie of the Year,2018,NL,buehlwa01,28,150,1
+Rookie of the Year,2018,NL,anderbr06,4,150,0
+Rookie of the Year,2018,NL,flaheja01,2,150,0
+Rookie of the Year,2018,NL,baderha01,1,150,0
+Rookie of the Year,2018,NL,hiranyo01,1,150,0
+Rookie of the Year,2018,NL,mcneije01,1,150,0
 MVP,2019,AL,troutmi01,355,420,17
 MVP,2019,AL,bregmal01,335,420,13
 MVP,2019,AL,semiema01,228,420,0
@@ -583,6 +639,25 @@ MVP,2019,NL,goldspa01,2,420,0
 MVP,2019,NL,wongko01,2,420,0
 MVP,2019,NL,pillake01,1,420,0
 MVP,2019,NL,scherma01,1,420,0
+Cy Young,2019,AL,verlaju01,171,210,17
+Cy Young,2019,AL,colege01,159,210,13
+Cy Young,2019,AL,mortoch02,75,210,0
+Cy Young,2019,AL,biebesh01,64,210,0
+Cy Young,2019,AL,lynnla01,18,210,0
+Cy Young,2019,AL,giolilu01,8,210,0
+Cy Young,2019,AL,rodried05,8,210,0
+Cy Young,2019,AL,minormi01,7,210,0
+Cy Young,2019,NL,degroja01,207,210,29
+Cy Young,2019,NL,ryuhy01,88,210,1
+Cy Young,2019,NL,scherma01,72,210,0
+Cy Young,2019,NL,flaheja01,69,210,0
+Cy Young,2019,NL,strasst01,53,210,0
+Cy Young,2019,NL,sorokmi01,9,210,0
+Cy Young,2019,NL,grayso01,4,210,0
+Cy Young,2019,NL,kershcl01,3,210,0
+Cy Young,2019,NL,buehlwa01,2,210,0
+Cy Young,2019,NL,yateski01,2,210,0
+Cy Young,2019,NL,corbipa01,1,210,0
 Rookie of the Year,2019,AL,alvaryo01,150,150,30
 Rookie of the Year,2019,AL,meansjo01,53,150,0
 Rookie of the Year,2019,AL,lowebr01,27,150,0
@@ -597,104 +672,6 @@ Rookie of the Year,2019,NL,tatisfe02,26,150,0
 Rookie of the Year,2019,NL,reynobr01,9,150,0
 Rookie of the Year,2019,NL,hudsoda02,4,150,0
 Rookie of the Year,2019,NL,roblevi01,1,150,0
-Cy Young,2018,AL,snellbl01,169,210,17
-Cy Young,2018,AL,verlaju01,154,210,13
-Cy Young,2018,AL,klubeco01,71,210,0
-Cy Young,2018,AL,salech01,59,210,0
-Cy Young,2018,AL,colege01,26,210,0
-Cy Young,2018,AL,bauertr01,13,210,0
-Cy Young,2018,AL,treinbl01,13,210,0
-Cy Young,2018,AL,diazed04,4,210,0
-Cy Young,2018,AL,severlu01,1,210,0
-Cy Young,2018,NL,degroja01,207,210,29
-Cy Young,2018,NL,scherma01,123,210,1
-Cy Young,2018,NL,nolaaa01,86,210,0
-Cy Young,2018,NL,freelky01,49,210,0
-Cy Young,2018,NL,corbipa01,23,210,0
-Cy Young,2018,NL,mikolmi01,13,210,0
-Cy Young,2018,NL,haderjo01,4,210,0
-Cy Young,2018,NL,foltymi01,3,210,0
-Cy Young,2018,NL,lestejo01,2,210,0
-MVP,2018,AL,bettsmo01,410,420,28
-MVP,2018,AL,troutmi01,265,420,1
-MVP,2018,AL,ramirjo01,208,420,0
-MVP,2018,AL,martijd02,198,420,1
-MVP,2018,AL,bregmal01,192,420,0
-MVP,2018,AL,lindofr01,169,420,0
-MVP,2018,AL,chapmma01,141,420,0
-MVP,2018,AL,daviskh01,41,420,0
-MVP,2018,AL,snellbl01,38,420,0
-MVP,2018,AL,verlaju01,26,420,0
-MVP,2018,AL,hanigmi01,16,420,0
-MVP,2018,AL,judgeaa01,10,420,0
-MVP,2018,AL,altuvjo01,9,420,0
-MVP,2018,AL,bogaexa01,9,420,0
-MVP,2018,AL,simmoan01,7,420,0
-MVP,2018,AL,treinbl01,7,420,0
-MVP,2018,AL,merriwh01,6,420,0
-MVP,2018,AL,diazed04,5,420,0
-MVP,2018,AL,stantmi03,4,420,0
-MVP,2018,AL,gregodi01,3,420,0
-MVP,2018,AL,lowrije01,3,420,0
-MVP,2018,AL,bauertr01,1,420,0
-MVP,2018,AL,hicksaa01,1,420,0
-MVP,2018,AL,salech01,1,420,0
-MVP,2018,NL,yelicch01,415,420,29
-MVP,2018,NL,baezja01,250,420,0
-MVP,2018,NL,arenano01,203,420,0
-MVP,2018,NL,freemfr01,174,420,0
-MVP,2018,NL,degroja01,141,420,1
-MVP,2018,NL,goldspa01,115,420,0
-MVP,2018,NL,cainlo01,109,420,0
-MVP,2018,NL,storytr01,108,420,0
-MVP,2018,NL,carpema01,105,420,0
-MVP,2018,NL,scherma01,59,420,0
-MVP,2018,NL,rendoan01,21,420,0
-MVP,2018,NL,acunaro01,19,420,0
-MVP,2018,NL,nolaaa01,16,420,0
-MVP,2018,NL,turneju01,10,420,0
-MVP,2018,NL,muncyma01,8,420,0
-MVP,2018,NL,aguilje01,7,420,0
-MVP,2018,NL,rizzoan01,6,420,0
-MVP,2018,NL,markani01,2,420,0
-MVP,2018,NL,suareeu01,2,420,0
-Rookie of the Year,2018,AL,ohtansh01,137,150,25
-Rookie of the Year,2018,AL,andujmi01,89,150,5
-Rookie of the Year,2018,AL,torregl01,25,150,0
-Rookie of the Year,2018,AL,wendljo01,17,150,0
-Rookie of the Year,2018,AL,palkada01,1,150,0
-Rookie of the Year,2018,AL,yarbrry01,1,150,0
-Rookie of the Year,2018,NL,acunaro01,144,150,27
-Rookie of the Year,2018,NL,sotoju01,89,150,2
-Rookie of the Year,2018,NL,buehlwa01,28,150,1
-Rookie of the Year,2018,NL,anderbr06,4,150,0
-Rookie of the Year,2018,NL,flaheja01,2,150,0
-Rookie of the Year,2018,NL,baderha01,1,150,0
-Rookie of the Year,2018,NL,hiranyo01,1,150,0
-Rookie of the Year,2018,NL,mcneije01,1,150,0
-Cy Young,2020,AL,biebesh01,210,210,30
-Cy Young,2020,AL,maedake01,92,210,0
-Cy Young,2020,AL,ryuhy01,51,210,0
-Cy Young,2020,AL,colege01,50,210,0
-Cy Young,2020,AL,keuchda01,46,210,0
-Cy Young,2020,AL,lynnla01,22,210,0
-Cy Young,2020,AL,giolilu01,18,210,0
-Cy Young,2020,AL,bassich01,10,210,0
-Cy Young,2020,AL,bundydy01,5,210,0
-Cy Young,2020,AL,hendrli01,5,210,0
-Cy Young,2020,AL,valdefr01,1,210,0
-Cy Young,2020,NL,bauertr01,201,210,27
-Cy Young,2020,NL,darviyu01,123,210,3
-Cy Young,2020,NL,degroja01,89,210,0
-Cy Young,2020,NL,lametdi01,57,210,0
-Cy Young,2020,NL,friedma01,15,210,0
-Cy Young,2020,NL,burneco01,12,210,0
-Cy Young,2020,NL,nolaaa01,3,210,0
-Cy Young,2020,NL,willide03,3,210,0
-Cy Young,2020,NL,galleza01,2,210,0
-Cy Young,2020,NL,hendrky01,2,210,0
-Cy Young,2020,NL,kershcl01,2,210,0
-Cy Young,2020,NL,wheelza01,1,210,0
 MVP,2020,AL,abreujo02,374,420,21
 MVP,2020,AL,ramirjo01,303,420,8
 MVP,2020,AL,lemahdj01,230,420,1
@@ -739,6 +716,29 @@ MVP,2020,NL,happia01,1,420,0
 MVP,2020,NL,swansda01,1,420,0
 MVP,2020,NL,teperry01,1,420,0
 MVP,2020,NL,willide03,1,420,0
+Cy Young,2020,AL,biebesh01,210,210,30
+Cy Young,2020,AL,maedake01,92,210,0
+Cy Young,2020,AL,ryuhy01,51,210,0
+Cy Young,2020,AL,colege01,50,210,0
+Cy Young,2020,AL,keuchda01,46,210,0
+Cy Young,2020,AL,lynnla01,22,210,0
+Cy Young,2020,AL,giolilu01,18,210,0
+Cy Young,2020,AL,bassich01,10,210,0
+Cy Young,2020,AL,bundydy01,5,210,0
+Cy Young,2020,AL,hendrli01,5,210,0
+Cy Young,2020,AL,valdefr01,1,210,0
+Cy Young,2020,NL,bauertr01,201,210,27
+Cy Young,2020,NL,darviyu01,123,210,3
+Cy Young,2020,NL,degroja01,89,210,0
+Cy Young,2020,NL,lametdi01,57,210,0
+Cy Young,2020,NL,friedma01,15,210,0
+Cy Young,2020,NL,burneco01,12,210,0
+Cy Young,2020,NL,nolaaa01,3,210,0
+Cy Young,2020,NL,willide03,3,210,0
+Cy Young,2020,NL,galleza01,2,210,0
+Cy Young,2020,NL,hendrky01,2,210,0
+Cy Young,2020,NL,kershcl01,2,210,0
+Cy Young,2020,NL,wheelza01,1,210,0
 Rookie of the Year,2020,AL,lewisky01,150,150,30
 Rookie of the Year,2020,AL,roberlu01,83,150,0
 Rookie of the Year,2020,AL,javiecr01,11,150,0
@@ -758,27 +758,6 @@ Rookie of the Year,2020,NL,hayeske01,5,150,0
 Rookie of the Year,2020,NL,anderia01,1,150,0
 Rookie of the Year,2020,NL,gimenan01,1,150,0
 Rookie of the Year,2020,NL,sanchsi01,1,150,0
-Cy Young,2021,AL,rayro02,207,210,29
-Cy Young,2021,AL,colege01,123,210,1
-Cy Young,2021,AL,lynnla01,48,210,0
-Cy Young,2021,AL,eovalna01,41,210,0
-Cy Young,2021,AL,rodonca01,34,210,0
-Cy Young,2021,AL,montafr02,21,210,0
-Cy Young,2021,AL,mcculla02,14,210,0
-Cy Young,2021,AL,hendrli01,10,210,0
-Cy Young,2021,AL,berrijo01,8,210,0
-Cy Young,2021,AL,bassich01,2,210,0
-Cy Young,2021,AL,giolilu01,1,210,0
-Cy Young,2021,AL,iglesra01,1,210,0
-Cy Young,2021,NL,burneco01,151,210,12
-Cy Young,2021,NL,wheelza01,141,210,12
-Cy Young,2021,NL,scherma01,113,210,6
-Cy Young,2021,NL,buehlwa01,70,210,0
-Cy Young,2021,NL,woodrbr01,21,210,0
-Cy Young,2021,NL,gausmke01,7,210,0
-Cy Young,2021,NL,uriasju01,3,210,0
-Cy Young,2021,NL,wainwad01,3,210,0
-Cy Young,2021,NL,degroja01,1,210,0
 MVP,2021,AL,ohtansh01,420,420,30
 MVP,2021,AL,guerrvl02,269,420,0
 MVP,2021,AL,semiema01,232,420,0
@@ -825,6 +804,27 @@ MVP,2021,NL,wainwad01,3,420,0
 MVP,2021,NL,gausmke01,1,420,0
 MVP,2021,NL,poseybu01,1,420,0
 MVP,2021,NL,wadela01,1,420,0
+Cy Young,2021,AL,rayro02,207,210,29
+Cy Young,2021,AL,colege01,123,210,1
+Cy Young,2021,AL,lynnla01,48,210,0
+Cy Young,2021,AL,eovalna01,41,210,0
+Cy Young,2021,AL,rodonca01,34,210,0
+Cy Young,2021,AL,montafr01,21,210,0
+Cy Young,2021,AL,mcculla02,14,210,0
+Cy Young,2021,AL,hendrli01,10,210,0
+Cy Young,2021,AL,berrijo01,8,210,0
+Cy Young,2021,AL,bassich01,2,210,0
+Cy Young,2021,AL,giolilu01,1,210,0
+Cy Young,2021,AL,iglesra01,1,210,0
+Cy Young,2021,NL,burneco01,151,210,12
+Cy Young,2021,NL,wheelza01,141,210,12
+Cy Young,2021,NL,scherma01,113,210,6
+Cy Young,2021,NL,buehlwa01,70,210,0
+Cy Young,2021,NL,woodrbr01,21,210,0
+Cy Young,2021,NL,gausmke01,7,210,0
+Cy Young,2021,NL,uriasju01,3,210,0
+Cy Young,2021,NL,wainwad01,3,210,0
+Cy Young,2021,NL,degroja01,1,210,0
 Rookie of the Year,2021,AL,arozara01,124,150,22
 Rookie of the Year,2021,AL,garcilu05,63,150,2
 Rookie of the Year,2021,AL,francwa01,30,150,2
