@@ -1,0 +1,14 @@
+year,award,league,bbref_id,name,team,points,votes_first,share_first,W,L,WL_pct,ties,G,finish
+2015,MOY,AL,banisje01,Jeff Banister,TEX,112.0,17.0,75%,88,74,.543,0,162,1
+2015,MOY,AL,hincha.01,AJ Hinch,HOU,82.0,8.0,55%,86,76,.531,0,162,2
+2015,MOY,AL,molitpa01,Paul Molitor,MIN,33.0,2.0,22%,83,79,.512,0,162,2
+2015,MOY,AL,gibbojo02,John Gibbons,TOR,22.0,1.0,15%,93,69,.574,0,162,1
+2015,MOY,AL,girarjo01,Joe Girardi,NYY,12.0,2.0,8%,87,75,.537,0,162,2
+2015,MOY,AL,yostne01,Ned Yost,KCR,8.0,0.0,5%,95,67,.586,0,162,1
+2015,MOY,AL,sciosmi01,Mike Scioscia,LAA,1.0,0.0,1%,85,77,.525,0,162,3
+2015,MOY,NL,maddojo99,Joe Maddon,CHC,124.0,18.0,83%,97,65,.599,0,162,3
+2015,MOY,NL,mathemi01,Mike Matheny,STL,87.0,9.0,58%,100,62,.617,0,162,1
+2015,MOY,NL,collite99,Terry Collins,NYM,49.0,3.0,33%,90,72,.556,0,162,1
+2015,MOY,NL,hurdlcl01,Clint Hurdle,PIT,8.0,0.0,5%,98,64,.605,0,162,2
+2015,MOY,NL,bochybr01,Bruce Bochy,SFG,1.0,0.0,1%,84,78,.519,0,162,2
+2015,MOY,NL,mattido01,Don Mattingly,LAD,1.0,0.0,1%,92,70,.568,0,162,1

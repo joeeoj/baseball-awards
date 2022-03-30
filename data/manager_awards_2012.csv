@@ -1,0 +1,14 @@
+year,award,league,bbref_id,name,team,points,votes_first,share_first,W,L,WL_pct,ties,G,finish
+2012,MOY,AL,melvibo01,Bob Melvin,OAK,116.0,16.0,83%,94,68,.580,0,162,1
+2012,MOY,AL,showabu99,Buck Showalter,BAL,108.0,12.0,77%,93,69,.574,0,162,2
+2012,MOY,AL,venturo01,Robin Ventura,CHW,12.0,0.0,9%,85,77,.525,0,162,2
+2012,MOY,AL,maddojo99,Joe Maddon,TBR,7.0,0.0,5%,90,72,.556,0,162,3
+2012,MOY,AL,girarjo01,Joe Girardi,NYY,5.0,0.0,4%,95,67,.586,0,162,1
+2012,MOY,AL,leylaji99,Jim Leyland,DET,2.0,0.0,1%,88,74,.543,0,162,1
+2012,MOY,AL,washiro01,Ron Washington,TEX,2.0,0.0,1%,93,69,.574,0,162,2
+2012,MOY,NL,johnsda02,Davey Johnson,WSN,131.0,23.0,82%,98,64,.605,0,162,1
+2012,MOY,NL,bakerdu01,Dusty Baker,CIN,77.0,5.0,48%,97,65,.599,0,162,1
+2012,MOY,NL,bochybr01,Bruce Bochy,SFG,61.0,4.0,38%,94,68,.580,0,162,1
+2012,MOY,NL,gonzafr99,Fredi Gonzalez,ATL,17.0,0.0,11%,94,68,.580,0,162,2
+2012,MOY,NL,blackbu02,Bud Black,SDP,1.0,0.0,1%,76,86,.469,0,162,4
+2012,MOY,NL,mathemi01,Mike Matheny,STL,1.0,0.0,1%,88,74,.543,0,162,2

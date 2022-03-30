@@ -1,0 +1,13 @@
+year,award,league,bbref_id,name,team,points,votes_first,share_first,W,L,WL_pct,ties,G,finish
+2019,MOY,AL,baldero01,Rocco Baldelli,MIN,106.0,13.0,71%,101,61,.623,0,162,1
+2019,MOY,AL,booneaa01,Aaron Boone,NYY,96.0,13.0,64%,103,59,.636,0,162,1
+2019,MOY,AL,cashke01,Kevin Cash,TBR,33.0,3.0,22%,96,66,.593,0,162,2
+2019,MOY,AL,melvibo01,Bob Melvin,OAK,19.0,0.0,13%,97,65,.599,0,162,2
+2019,MOY,AL,hincha.01,AJ Hinch,HOU,12.0,1.0,8%,107,55,.660,0,162,1
+2019,MOY,AL,francte01,Terry Francona,CLE,4.0,0.0,3%,93,69,.574,0,162,2
+2019,MOY,NL,shildmi99,Mike Shildt,STL,95.0,10.0,63%,91,71,.562,0,162,1
+2019,MOY,NL,counscr01,Craig Counsell,MIL,88.0,13.0,59%,89,73,.549,0,162,2
+2019,MOY,NL,snitkbr99,Brian Snitker,ATL,45.0,3.0,30%,97,65,.599,0,162,1
+2019,MOY,NL,roberda07,Dave Roberts,LAD,25.0,4.0,17%,106,56,.654,0,162,1
+2019,MOY,NL,martida01,Dave Martinez,WSN,15.0,0.0,10%,93,69,.574,0,162,2
+2019,MOY,NL,lovulto01,Torey Lovullo,ARI,2.0,0.0,1%,85,77,.525,0,162,2

@@ -1,0 +1,12 @@
+year,award,league,bbref_id,name,team,points,votes_first,share_first,W,L,WL_pct,ties,G,finish
+2018,MOY,AL,melvibo01,Bob Melvin,OAK,121.0,18.0,81%,97,65,.599,0,162,2
+2018,MOY,AL,coraal01,Alex Cora,BOS,79.0,7.0,53%,108,54,.667,0,162,1
+2018,MOY,AL,cashke01,Kevin Cash,TBR,57.0,5.0,38%,90,72,.556,0,162,3
+2018,MOY,AL,hincha.01,AJ Hinch,HOU,11.0,0.0,7%,103,59,.636,0,162,1
+2018,MOY,AL,booneaa01,Aaron Boone,NYY,2.0,0.0,1%,100,62,.617,0,162,2
+2018,MOY,NL,snitkbr99,Brian Snitker,ATL,116.0,17.0,77%,90,72,.556,0,162,1
+2018,MOY,NL,counscr01,Craig Counsell,MIL,99.0,11.0,66%,96,67,.589,0,163,1
+2018,MOY,NL,blackbu02,Bud Black,COL,41.0,1.0,27%,91,72,.558,0,163,2
+2018,MOY,NL,shildmi99,Mike Shildt,STL,7.0,0.0,5%,41,28,.594,0,69,3
+2018,MOY,NL,maddojo99,Joe Maddon,CHC,6.0,1.0,4%,95,68,.583,0,163,2
+2018,MOY,NL,roberda07,Dave Roberts,LAD,1.0,0.0,1%,92,71,.564,0,163,1

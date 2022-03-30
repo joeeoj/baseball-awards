@@ -1,0 +1,17 @@
+year,award,league,bbref_id,name,team,points,votes_first,share_first,W,L,WL_pct,ties,G,finish
+2014,MOY,AL,showabu99,Buck Showalter,BAL,132.0,25.0,88%,96,66,.593,0,162,1
+2014,MOY,AL,sciosmi01,Mike Scioscia,LAA,61.0,4.0,41%,98,64,.605,0,162,1
+2014,MOY,AL,yostne01,Ned Yost,KCR,41.0,0.0,27%,89,73,.549,0,162,2
+2014,MOY,AL,mcclell01,Lloyd McClendon,SEA,29.0,1.0,19%,87,75,.537,0,162,3
+2014,MOY,AL,francte01,Terry Francona,CLE,2.0,0.0,1%,85,77,.525,0,162,3
+2014,MOY,AL,girarjo01,Joe Girardi,NYY,1.0,0.0,1%,84,78,.519,0,162,2
+2014,MOY,AL,melvibo01,Bob Melvin,OAK,1.0,0.0,1%,88,74,.543,0,162,2
+2014,MOY,NL,willima04,Matt Williams,WSN,109.0,18.0,73%,96,66,.593,0,162,1
+2014,MOY,NL,hurdlcl01,Clint Hurdle,PIT,80.0,8.0,53%,88,74,.543,0,162,2
+2014,MOY,NL,bochybr01,Bruce Bochy,SFG,30.0,3.0,20%,88,74,.543,0,162,2
+2014,MOY,NL,mathemi01,Mike Matheny,STL,18.0,0.0,12%,90,72,.556,0,162,1
+2014,MOY,NL,redmomi01,Mike Redmond,MIA,16.0,1.0,11%,77,85,.475,0,162,4
+2014,MOY,NL,mattido01,Don Mattingly,LAD,12.0,0.0,8%,94,68,.580,0,162,1
+2014,MOY,NL,roeniro01,Ron Roenicke,MIL,3.0,0.0,2%,82,80,.506,0,162,3
+2014,MOY,NL,blackbu02,Bud Black,SDP,1.0,0.0,1%,77,85,.475,0,162,3
+2014,MOY,NL,collite99,Terry Collins,NYM,1.0,0.0,1%,79,83,.488,0,162,2

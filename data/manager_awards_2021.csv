@@ -1,0 +1,13 @@
+year,award,league,bbref_id,name,team,points,votes_first,share_first,W,L,WL_pct,ties,G,finish
+2021,MOY,AL,cashke01,Kevin Cash,TBR,109.0,19.0,73%,100,62,.617,0,162,1
+2021,MOY,AL,servasc01,Scott Servais,SEA,71.0,5.0,47%,90,72,.556,0,162,2
+2021,MOY,AL,bakerdu01,Dusty Baker,HOU,33.0,2.0,22%,95,67,.586,0,162,1
+2021,MOY,AL,montoch01,Charlie Montoyo,TOR,23.0,3.0,15%,91,71,.562,0,162,4
+2021,MOY,AL,coraal01,Alex Cora,BOS,16.0,1.0,11%,92,70,.568,0,162,2
+2021,MOY,AL,larusto01,Tony La Russa,CHW,15.0,0.0,10%,93,69,.574,0,162,1
+2021,MOY,AL,hincha.01,AJ Hinch,DET,3.0,0.0,2%,77,85,.475,0,162,3
+2021,MOY,NL,kaplega01,Gabe Kapler,SFG,143.0,28.0,95%,107,55,.660,0,162,1
+2021,MOY,NL,counscr01,Craig Counsell,MIL,75.0,1.0,50%,95,67,.586,0,162,1
+2021,MOY,NL,shildmi99,Mike Shildt,STL,25.0,1.0,17%,90,72,.556,0,162,2
+2021,MOY,NL,snitkbr99,Brian Snitker,ATL,21.0,0.0,14%,88,73,.547,0,161,1
+2021,MOY,NL,roberda07,Dave Roberts,LAD,6.0,0.0,4%,106,56,.654,0,162,2

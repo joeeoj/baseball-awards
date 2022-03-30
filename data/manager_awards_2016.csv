@@ -1,0 +1,12 @@
+year,award,league,bbref_id,name,team,points,votes_first,share_first,W,L,WL_pct,ties,G,finish
+2016,MOY,AL,francte01,Terry Francona,CLE,128.0,22.0,85%,94,67,.584,0,161,1
+2016,MOY,AL,banisje01,Jeff Banister,TEX,64.0,4.0,43%,95,67,.586,0,162,1
+2016,MOY,AL,showabu99,Buck Showalter,BAL,44.0,2.0,29%,89,73,.549,0,162,2
+2016,MOY,AL,farrejo03,John Farrell,BOS,28.0,2.0,19%,93,69,.574,0,162,1
+2016,MOY,AL,girarjo01,Joe Girardi,NYY,5.0,0.0,3%,84,78,.519,0,162,4
+2016,MOY,AL,servasc01,Scott Servais,SEA,1.0,0.0,1%,86,76,.531,0,162,2
+2016,MOY,NL,roberda07,Dave Roberts,LAD,108.0,16.0,72%,91,71,.562,0,162,1
+2016,MOY,NL,maddojo99,Joe Maddon,CHC,70.0,8.0,47%,103,58,.640,1,162,1
+2016,MOY,NL,bakerdu01,Dusty Baker,WSN,66.0,4.0,44%,95,67,.586,0,162,1
+2016,MOY,NL,collite99,Terry Collins,NYM,24.0,2.0,16%,87,75,.537,0,162,2
+2016,MOY,NL,mattido01,Don Mattingly,MIA,2.0,0.0,1%,79,82,.491,0,161,3

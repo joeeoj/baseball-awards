@@ -1,0 +1,11 @@
+year,award,league,bbref_id,name,team,points,votes_first,share_first,W,L,WL_pct,ties,G,finish
+2017,MOY,AL,molitpa01,Paul Molitor,MIN,112.0,18.0,75%,85,77,.525,0,162,2
+2017,MOY,AL,francte01,Terry Francona,CLE,90.0,11.0,60%,102,60,.630,0,162,1
+2017,MOY,AL,hincha.01,AJ Hinch,HOU,56.0,1.0,37%,101,61,.623,0,162,1
+2017,MOY,AL,girarjo01,Joe Girardi,NYY,12.0,0.0,8%,91,71,.562,0,162,2
+2017,MOY,NL,lovulto01,Torey Lovullo,ARI,111.0,18.0,74%,93,69,.574,0,162,2
+2017,MOY,NL,roberda07,Dave Roberts,LAD,55.0,5.0,37%,104,58,.642,0,162,1
+2017,MOY,NL,blackbu02,Bud Black,COL,43.0,3.0,29%,87,75,.537,0,162,3
+2017,MOY,NL,counscr01,Craig Counsell,MIL,33.0,3.0,22%,86,76,.531,0,162,2
+2017,MOY,NL,bakerdu01,Dusty Baker,WSN,25.0,1.0,17%,97,65,.599,0,162,1
+2017,MOY,NL,maddojo99,Joe Maddon,CHC,3.0,0.0,2%,92,70,.568,0,162,1

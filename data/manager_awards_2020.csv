@@ -1,0 +1,16 @@
+year,award,league,bbref_id,name,team,points,votes_first,share_first,W,L,WL_pct,ties,G,finish
+2020,MOY,AL,cashke01,Kevin Cash,TBR,126.0,22.0,84%,40,20,.667,0,60,1
+2020,MOY,AL,renteri01,Rick Renteria,CHW,61.0,5.0,41%,35,25,.583,0,60,2
+2020,MOY,AL,montoch01,Charlie Montoyo,TOR,47.0,2.0,31%,32,28,.533,0,60,3
+2020,MOY,AL,melvibo01,Bob Melvin,OAK,22.0,1.0,15%,36,24,.600,0,60,1
+2020,MOY,AL,baldero01,Rocco Baldelli,MIN,13.0,0.0,9%,36,24,.600,0,60,1
+2020,MOY,AL,bakerdu01,Dusty Baker,HOU,1.0,0.0,1%,29,31,.483,0,60,2
+2020,MOY,NL,mattido01,Don Mattingly,MIA,124.0,20.0,83%,31,29,.517,0,60,2
+2020,MOY,NL,tinglja99,Jayce Tingler,SDP,71.0,6.0,47%,37,23,.617,0,60,2
+2020,MOY,NL,rossda01,David Ross,CHC,25.0,1.0,17%,34,26,.567,0,60,1
+2020,MOY,NL,snitkbr99,Brian Snitker,ATL,16.0,1.0,11%,35,25,.583,0,60,1
+2020,MOY,NL,roberda07,Dave Roberts,LAD,13.0,1.0,9%,43,17,.717,0,60,1
+2020,MOY,NL,shildmi99,Mike Shildt,STL,10.0,0.0,7%,30,28,.517,0,58,2
+2020,MOY,NL,counscr01,Craig Counsell,MIL,6.0,1.0,4%,29,31,.483,0,60,4
+2020,MOY,NL,kaplega01,Gabe Kapler,SFG,3.0,0.0,2%,29,31,.483,0,60,3
+2020,MOY,NL,bellda01,David Bell,CIN,2.0,0.0,1%,31,29,.517,0,60,2

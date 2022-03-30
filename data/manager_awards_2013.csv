@@ -1,0 +1,14 @@
+year,award,league,bbref_id,name,team,points,votes_first,share_first,W,L,WL_pct,ties,G,finish
+2013,MOY,AL,francte01,Terry Francona,CLE,112.0,16.0,75%,92,70,.568,0,162,2
+2013,MOY,AL,farrejo03,John Farrell,BOS,96.0,12.0,64%,97,65,.599,0,162,1
+2013,MOY,AL,melvibo01,Bob Melvin,OAK,36.0,2.0,24%,96,66,.593,0,162,1
+2013,MOY,AL,girarjo01,Joe Girardi,NYY,11.0,0.0,7%,85,77,.525,0,162,3
+2013,MOY,AL,maddojo99,Joe Maddon,TBR,9.0,0.0,6%,92,71,.564,0,163,2
+2013,MOY,AL,leylaji99,Jim Leyland,DET,3.0,0.0,2%,93,69,.574,0,162,1
+2013,MOY,AL,showabu99,Buck Showalter,BAL,1.0,0.0,1%,85,77,.525,0,162,3
+2013,MOY,AL,washiro01,Ron Washington,TEX,1.0,0.0,1%,91,72,.558,0,163,2
+2013,MOY,AL,yostne01,Ned Yost,KCR,1.0,0.0,1%,86,76,.531,0,162,3
+2013,MOY,NL,hurdlcl01,Clint Hurdle,PIT,140.0,25.0,93%,94,68,.580,0,162,2
+2013,MOY,NL,mattido01,Don Mattingly,LAD,68.0,2.0,45%,92,70,.568,0,162,1
+2013,MOY,NL,gonzafr99,Fredi Gonzalez,ATL,43.0,3.0,29%,96,66,.593,0,162,1
+2013,MOY,NL,mathemi01,Mike Matheny,STL,19.0,0.0,13%,97,65,.599,0,162,1
