@@ -14,9 +14,11 @@ OUTPUT_DIR = Path.cwd() / 'contrib'
 AWARD_NAMES = {'CYA': 'Cy Young', 'MVP': 'MVP', 'ROY': 'Rookie of the Year', 'MOY': 'BBWAA Manager of the Year'}
 HEADER = ['awardID', 'yearID', 'lgID', 'playerID', 'pointsWon', 'pointsMax', 'votesFirst']
 
-
 with open(INPUT_DIR / 'max_points.json') as f:
     MAX_POINTS = json.load(f)
+
+with open(INPUT_DIR / 'bbref_to_lahnman.json') as f:
+    MISMATCHES = json.load(f)
 
 
 def str_to_int(s: str) -> int:
@@ -35,6 +37,7 @@ def truncate_results(fname: PosixPath) -> list[dict]:
 
     results = []
     for row in data:
+        bbref_id = row.get('bbref_id')
         year = row.get('year')
         league = row.get('league')
         award = row.get('award')
@@ -44,7 +47,7 @@ def truncate_results(fname: PosixPath) -> list[dict]:
             'awardID': AWARD_NAMES.get(award),
             'yearID': year,
             'lgID': league,
-            'playerID': row.get('bbref_id'),
+            'playerID': MISMATCHES.get(bbref_id, bbref_id),  # fall back to bbref if not a mismatch
             'pointsWon': str_to_int(row.get('points')),
             'pointsMax': max_points,
             'votesFirst': str_to_int(row.get('votes_first')),
@@ -60,11 +63,19 @@ def write_dict_csv(data: list[str], fout: PosixPath) -> None:
         csvwriter.writerows(data)
 
 
+def sorter(data: list[dict]) -> list[dict]:
+    """First sort by points, then the rest"""
+    v = sorted(data, key=lambda d: d['pointsWon'], reverse=True)
+    return sorted(v, key=lambda d: (d['yearID'], len(d['awardID']), d['lgID']))
+
+
 def main():
     players = chain.from_iterable([truncate_results(fname) for fname in INPUT_DIR.glob('player*.csv')])
+    players = sorter(list(players))
     write_dict_csv(players, 'AwardsSharePlayers.csv')
 
     managers = chain.from_iterable([truncate_results(fname) for fname in INPUT_DIR.glob('manager*.csv')])
+    managers = sorter(list(managers))
     write_dict_csv(managers, 'AwardsShareManagers.csv')
 
 
